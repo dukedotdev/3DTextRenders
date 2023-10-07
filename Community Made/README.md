@@ -1,0 +1,2 @@
+# Community Made
+All these images were created by people just like you! If you want to submit an image, create a pull request. If you own the image and would like it removed for any reason, create a pull request to have it taken down.

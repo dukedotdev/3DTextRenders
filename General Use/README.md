@@ -1,0 +1,2 @@
+# General Use
+These images aren't hyper-specific, and many people may have a situation to use these in. If something here feels like it belongs in the "Personal Use" folder [check README.md], create an issue and give me the file name! I'll double check to see if I got its category mixed up :3

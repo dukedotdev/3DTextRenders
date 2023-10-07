@@ -1,0 +1,2 @@
+# Personal Use
+These images were made for very specific cases that the majority of people will never need. If you can actually find a use out of one of these, then good job! Also, just to clarify, even though the folder is named "Personal Use," anyone can use these.
